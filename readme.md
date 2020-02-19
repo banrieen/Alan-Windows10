@@ -1,5 +1,4 @@
-========================================================================
-    C++/WinRT Alan-Windows10 Project Overview
+C++/WinRT Alan-Windows10 Project Overview
 ========================================================================
 
 This project demonstrates how to get started writing XAML apps directly
@@ -17,14 +16,14 @@ Steps:
 3. Use the skeleton class definitions for reference to implement your
     Windows Runtime classes.
 
-========================================================================
+------
 Learn more about C++/WinRT here:
 http://aka.ms/cppwinrt/
-========================================================================
 
 
-ÖĞÎÄÏîÄ¿ËµÃ÷
+
+ä¸­æ–‡é¡¹ç›®è¯´æ˜
 ------------------------------------------------------------------------
 
-°¢À¼¸öÈËÖúÊÖ×ÀÃæ°æ£¬Ñ¡Ôñ Windows Í¨ÓÃÆ½Ì¨ UWP ¿ª·¢¿ò¼Ü£»²¢Ê¹ÓÃ C++/WinRT ÒÀÀµµÄ±ê×¼ C++ 17.
+é˜¿å…°ä¸ªäººåŠ©æ‰‹æ¡Œé¢ç‰ˆï¼Œé€‰æ‹© Windows é€šç”¨å¹³å° UWP å¼€å‘æ¡†æ¶ï¼›å¹¶ä½¿ç”¨ C++/WinRT ä¾èµ–çš„æ ‡å‡† C++ 17.
 
